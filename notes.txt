@@ -1,1 +1,5 @@
-Yo if you want to leave notes just comment in the code, we'll use this file to brainstorm and plan how we approach this, get used to collabs lol
+Yo if you want to leave notes just comment in the code for code-related ones
+You can go ahead and clone/pull
+
+For project related leave comments on branches. I already created a branch, "v_1". 
+
