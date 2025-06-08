@@ -1,5 +1,5 @@
 Yo if you want to leave notes just comment in the code for code-related ones
 You can go ahead and clone/pull
 
-For project related leave comments on branches. I already created a branch, "v_1". 
+For project related leave comments on branches(Dont forget to add me as a reviewer if you ever need one). I already created a branch, "v_1". 
 
